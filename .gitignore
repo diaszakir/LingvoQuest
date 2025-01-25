@@ -1,8 +1,6 @@
 .env
-.env.test
 
-node_modules/
+old.py
 
-package-lock.json
-
-package.json
+words.txt
+words1.txt
